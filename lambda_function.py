@@ -2,7 +2,7 @@ import boto3
 import os
 from boto3.dynamodb.conditions import Key
 
-# Hola a todos companeros, estamos es pero volando
+# Hola a todos companeros, estamos es pero volando es notificaiones
 
 DYNAMO_BD = os.environ['DYNAMO_BD']
 
